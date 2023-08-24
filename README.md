@@ -1,2 +1,2 @@
 # basic-discord-server-nuker
-Using this breaks TOS. It's made to show how easy it is to destroy discord servers
+Using this breaks TOS. It's made to show how easy it is to destroy discord servers. I don't approve using this program, and i am not responsible for whatever you do with it. I won't help you with this program. I, never used and i will never use this program for malicious purposes. It's made to prove a point, and the point is, it is too easy to destroy discord servers. Discord, add better security.
